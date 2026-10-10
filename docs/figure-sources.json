@@ -1,0 +1,72 @@
+[
+  {
+    "file": "figures/overall-workflow.png",
+    "report_page": 2,
+    "description": "Overall analysis workflow"
+  },
+  {
+    "file": "figures/diffuse-workflow.png",
+    "report_page": 4,
+    "description": "Diffuse nutrient load workflow"
+  },
+  {
+    "file": "figures/land-cover.png",
+    "report_page": 5,
+    "description": "Land cover and watercourses"
+  },
+  {
+    "file": "figures/source-comparison-workflow.png",
+    "report_page": 6,
+    "description": "Point and diffuse source comparison"
+  },
+  {
+    "file": "figures/nitrogen-sources.png",
+    "report_page": 7,
+    "description": "Nitrogen point sources"
+  },
+  {
+    "file": "figures/phosphorus-sources.png",
+    "report_page": 7,
+    "description": "Phosphorus point sources"
+  },
+  {
+    "file": "figures/buffer-workflow.png",
+    "report_page": 9,
+    "description": "Buffer-zone calculation workflow"
+  },
+  {
+    "file": "figures/cost-workflow.png",
+    "report_page": 10,
+    "description": "Costs and retention workflow"
+  },
+  {
+    "file": "figures/buffer-zones.png",
+    "report_page": 11,
+    "description": "Candidate protective zones"
+  },
+  {
+    "file": "figures/buffer-detail.png",
+    "report_page": 11,
+    "description": "20 m stream buffer detail"
+  },
+  {
+    "file": "figures/allocation-workflow.png",
+    "report_page": 12,
+    "description": "Municipal cost allocation workflow"
+  },
+  {
+    "file": "figures/catchment-location.png",
+    "report_page": 15,
+    "description": "Catchment location in Skane"
+  },
+  {
+    "file": "figures/municipal-map.png",
+    "report_page": 16,
+    "description": "Land cover, streams and municipal boundaries"
+  },
+  {
+    "file": "figures/cost-allocation.png",
+    "report_page": 14,
+    "description": "Municipal cost shares under four allocation principles"
+  }
+]
